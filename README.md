@@ -16,4 +16,4 @@ lsj [dir]
 
 # Why ?
 
-cross platform cat, sudo/elevate-able command.
+cross platform ls, sudo/elevate-able command.
