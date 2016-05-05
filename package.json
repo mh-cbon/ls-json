@@ -1,6 +1,6 @@
 {
   "name": "@mh-cbon/ls-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ls to json",
   "main": "index.js",
   "bin": {
@@ -17,7 +17,11 @@
     "public": "npm publish --access=public"
   },
   "keywords": [
-    "ls", "readdir", "read", "dir", "json"
+    "ls",
+    "readdir",
+    "read",
+    "dir",
+    "json"
   ],
   "author": "mh-cbon <mh-cbon@users.noreply.github.com>",
   "license": "MIT"
