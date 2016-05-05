@@ -1,5 +1,5 @@
 {
-  "name": "ls-json",
+  "name": "@mh-cbon/ls-json",
   "version": "1.0.0",
   "description": "ls to json",
   "main": "index.js",
