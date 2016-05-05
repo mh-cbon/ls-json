@@ -4,7 +4,9 @@ ls to json
 
 # Install
 
+```
 npm i @mh-cbon/ls-json -g
+```
 
 # Usage
 
